@@ -11,9 +11,21 @@ Java-SDE-90Day-Bootcamp/
 ├── README.md
 └── src/
     ├── collections/          # Java Memory Model, Equals & HashCode, Collections Framework
+    │   └── MemoryModelDemo.java
     ├── twopointers/          # Inward & Optimization Two Pointer Patterns
+    │   ├── TwoSumSorted.java
+    │   ├── ValidPalindrome.java
+    │   ├── ReverseString.java
+    │   ├── ContainerWithMostWater.java
+    │   └── ThreeSum.java
     ├── fastslow/             # Fast & Slow Pointers (Hare & Tortoise), Array Partitioning
+    │   ├── MoveZeroes.java
+    │   ├── RemoveDuplicates.java
+    │   └── LinkedListCycle.java
     └── slidingwindow/        # Fixed & Dynamic Sliding Window Patterns
+        ├── MaxAverageSubarray.java
+        ├── MinSubarraySum.java
+        └── LongestSubstringWithoutRepeating.java
 ```
 
 ---
